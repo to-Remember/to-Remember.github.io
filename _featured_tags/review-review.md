@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Review
 slug: review
-category: review
+category: Review
 menu: false
-order: 1
+order: 3
 ---
