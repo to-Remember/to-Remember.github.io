@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "파이썬(1)"
+subtitle:   "예제"
+categories: Blog
+tags: python   
+comments: true
+---
+
+
 ## _파이썬(1)-예제_
 
 ## if / else / elif 
@@ -7,13 +17,13 @@
 - 입력한 값이 60보다 크거나 같으면 **합격**을 출력하라,
 - 조건 불만족시 **불합격**을 출력하라.
 
-```sh
->>> score = int(input('점수'))
->>> if score >= 60:
->>>     print('합격')
->>> else:
->>>     print('불합격')
-```
+~~~
+score = int(input('점수'))
+if score >= 60:
+    print('합격')
+else:
+    print('불합격')
+~~~
 
 
 ##### 2. 짝수/ 홀수 체크
@@ -22,13 +32,13 @@
 - 입력받은 수가 짝수일 경우 **짝수**를 출력하라.
 - 입력받은 수가 홀수일 경우 **홀수**를 출력하라.
 
-```sh
->>> num = int(input('num:'))
->>> if num % 2 == 0
->>>     print('짝수')
->>> else:
->>>     print('홀수')
-```
+~~~
+num = int(input('num:'))
+if num % 2 == 0
+    print('짝수')
+else:
+    print('홀수')
+~~~
 
 ##### 3. 성인 여성 체크
 
@@ -37,30 +47,30 @@
 - 조건 불만족시 **성인 여성만 가능**을 출력하라.
 
 
-```sh
+~~~
 (1)
->>> age = int(input('나이:')
->>> if age >= 20:
->>>     gender = input('성별(여:f, 남:m):')
->>>     if gender == 'f':
->>>         print('입장')
->>>     else:
->>>         print('여성만 입장가능')
->>> else:
->>>     print('성인만 입장가능')
-```
+age = int(input('나이:')
+if age >= 20:
+    gender = input('성별(여:f, 남:m):')
+    if gender == 'f':
+        print('입장')
+    else:
+        print('여성만 입장가능')
+else:
+    print('성인만 입장가능')
+~~~
 
-```sh
+~~~
 (2)
->>> age = int(input('나이:')
->>> gender = input('성별(여:f, 남:m):')
->>> if age >= 20 and gender == 'f':
->>>     print('입장')
->>> else:
->>>     print('성인 여성만 가능')
->>> else:
->>>     print('성인만 입장가능')
-```
+age = int(input('나이:')
+gender = input('성별(여:f, 남:m):')
+if age >= 20 and gender == 'f':
+    print('입장')
+else:
+    print('성인 여성만 가능')
+else:
+    print('성인만 입장가능')
+~~~
 
 #####  4. 점수(1-100) 입력받아 학점 출력
 
@@ -70,19 +80,21 @@
 - D: 60-69
 - F: 60미만
 
-```sh
->>> score = int(input('score(0-100):'))
->>> if score < 0 or score > 100:
->>>     print('잘못된 점수')
->>> else:
->>>     if score >= 90:
->>>         print('A')
->>>     elif score >= 80:
->>>         print("B")
->>>     elif score >= 70:
->>>         print("C")
->>>     elif score >= 60:
->>>         print("D")
->>>     else:
->>>         print("F")
-```
+
+~~~
+score = int(input('score(0-100):'))
+if score < 0 or score > 100:
+    print('잘못된 점수')
+else:
+    if score >= 90:
+        print('A')
+    elif score >= 80:
+        print("B")
+    elif score >= 70:
+        print("C")
+    elif score >= 60:
+        print("D")
+    else:
+        print("F")
+~~~
+

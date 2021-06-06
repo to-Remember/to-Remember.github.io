@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "파이썬(1)"
+subtitle:   "제어문 및 반복문"
+categories: Blog
+tags: python   
+comments: true
+---
+
+
 ## _파이썬(1)-제어문 및 반복문_
 
 ## 제어문
