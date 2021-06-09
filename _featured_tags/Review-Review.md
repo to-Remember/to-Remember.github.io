@@ -1,7 +1,7 @@
 ---
-layout: tag-blog
+layout: tag-Blog
 title: Review
-slug: review
+slug: Review
 category: Review
 menu: false
 order: 3

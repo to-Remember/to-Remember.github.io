@@ -1,5 +1,5 @@
 ---
-layout: tag-blog
+layout: tag-Blog
 title: Project
 slug: Project
 category: Project

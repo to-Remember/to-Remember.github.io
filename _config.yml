@@ -13,12 +13,12 @@ url:                 https://to-Remember.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "A space where I reflect on what I've learned and share."
+tagline:             "A space for recording and sharing."
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  !!Let's learn and share!!
+  시작은 미약할지언정 끝은 창대하길
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
