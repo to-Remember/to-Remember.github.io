@@ -3,7 +3,7 @@ layout: post
 title:  "파이썬(1)"
 subtitle:   "예제"
 categories: Blog
-tags: python   
+tags: blog python   
 comments: true
 ---
 
