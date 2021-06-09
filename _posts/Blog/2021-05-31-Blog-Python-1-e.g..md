@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "파이썬(1)"
+title:  "파이썬(1)예제"
 subtitle:   "예제"
 categories: Blog
 tags: Blog python   

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "파이썬(1)"
+title:  "파이썬(1)변수와 연산자"
 subtitle:   "변수와 연산자"
 categories: Blog
 tags: Blog python   
