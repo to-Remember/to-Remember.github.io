@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "파이썬(1)"
+title:  "파이썬(1)_조건문_반복문"
 subtitle:   "변수,연산자,제어문,반복문"
 categories: Blog
 tags: Blog python   
