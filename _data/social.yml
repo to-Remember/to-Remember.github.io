@@ -23,7 +23,7 @@
   instagram:
     name: Instagram
     icon: icon-instagram
-    prepend: '
+    prepend:
   whatsapp:
     name: WhatsApp
     icon: icon-whatsapp
