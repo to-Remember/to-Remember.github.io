@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "파이썬(1)예제"
+title:  "파이썬(1)_예제"
 subtitle:   "예제"
 categories: Blog
 tags: Blog python   
@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-## _파이썬(1)-예제_
+## 예제
 
 ## if / else / elif 
 
