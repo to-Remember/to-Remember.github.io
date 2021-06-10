@@ -19,11 +19,11 @@
   facebook:
     name: Facebook
     icon: icon-facebook
-    prepend: 'https://facebook.com/'
+    prepend:
   instagram:
     name: Instagram
     icon: icon-instagram
-    prepend: 'https://instagram.com/'
+    prepend: '
   whatsapp:
     name: WhatsApp
     icon: icon-whatsapp
