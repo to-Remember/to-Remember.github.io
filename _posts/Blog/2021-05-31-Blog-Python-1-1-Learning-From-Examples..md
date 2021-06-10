@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "파이썬(1)_예제"
-subtitle:   "예제"
+subtitle:   "합격/불합격, 짝수/홀수, 성인/성별 확인, 학점"
 categories: Blog
 tags: Blog python   
 comments: true
