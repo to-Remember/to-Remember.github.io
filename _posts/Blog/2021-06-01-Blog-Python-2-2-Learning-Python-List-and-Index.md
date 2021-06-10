@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title:  "파이썬(2)_2_리스트요소_다차원리스트"  
+title:  "파이썬(2-2)_리스트요소_다차원리스트"  
 subtitle:   "리스트 요소 접근 및 다차원 리스트"  
 categories: Blog  
 tags: Blog python     
