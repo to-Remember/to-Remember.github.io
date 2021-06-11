@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title:  "파이썬(2)_리스트_인덱스_enumerate"  
+title:  "파이썬(3)_리스트_인덱스_enumerate"  
 subtitle:   "리스트 요소 생성/수정/삭제, enumerate"  
 categories: Blog  
 tags: Blog python     
