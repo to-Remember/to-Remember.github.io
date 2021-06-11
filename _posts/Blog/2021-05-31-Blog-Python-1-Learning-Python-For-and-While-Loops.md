@@ -65,7 +65,7 @@ comments: true
 #### if-else문
 - 조건 만족시 if블록을 실행한다
 - 불만족시 else를 실행한다.
-~~~
+~~~python
 if 조건:
     print('조건만족')
 else:
@@ -75,7 +75,7 @@ else:
 #### if-elif-elif-else
 - 3개 이상의 조건일 경우 사용
 -  e.g., 1. 게임시작 2. 캐릭터 선택 3. 연습 4. 게임종류
-~~~
+~~~python
 # 메뉴가 2일 경우
 menu = 2
 if menu ==1:
@@ -99,7 +99,7 @@ select char
 ### while문:
 - 조건이 True일 동안 반복한다.
 - 조건이 False가 되면 중단한다.
-~~~
+~~~python
 (e.g.,1)
 >>> a = 3
 >>> while a > 0:
@@ -113,7 +113,7 @@ select char
 while밖
 ~~~
 
-~~~
+~~~python
 (e.g.,2)
 >>> a = 1
 >>> while a < 3:

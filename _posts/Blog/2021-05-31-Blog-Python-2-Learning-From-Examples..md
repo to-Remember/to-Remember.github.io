@@ -17,7 +17,7 @@ comments: true
 - 입력한 값이 60보다 크거나 같으면 **합격**을 출력하라,
 - 조건 불만족시 **불합격**을 출력하라.
 
-~~~
+~~~python
 score = int(input('점수'))
 if score >= 60:
     print('합격')
@@ -32,7 +32,7 @@ else:
 - 입력받은 수가 짝수일 경우 **짝수**를 출력하라.
 - 입력받은 수가 홀수일 경우 **홀수**를 출력하라.
 
-~~~
+~~~python
 num = int(input('num:'))
 if num % 2 == 0
     print('짝수')
@@ -47,7 +47,7 @@ else:
 - 조건 불만족시 **성인 여성만 가능**을 출력하라.
 
 
-~~~
+~~~python
 (1)
 age = int(input('나이:')
 if age >= 20:
@@ -60,7 +60,7 @@ else:
     print('성인만 입장가능')
 ~~~
 
-~~~
+~~~python
 (2)
 age = int(input('나이:')
 gender = input('성별(여:f, 남:m):')
@@ -81,7 +81,7 @@ else:
 - F: 60미만
 
 
-~~~
+~~~python
 score = int(input('score(0-100):'))
 if score < 0 or score > 100:
     print('잘못된 점수')
