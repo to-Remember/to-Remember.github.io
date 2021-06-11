@@ -9,7 +9,7 @@ comments: true
 
 ## 리스트 요소 접근
 
-~~~
+~~~python
 a = [1, 2, 3]
 print(a[0])  ---> 0번방 값 출력
 print(a[1])
@@ -36,7 +36,7 @@ print()
 1, 2, 3,
 ~~~
 
-~~~
+~~~python
 b = ['aaa', 'bbb', 'ccc']
 print('b의 길이: ', len(b))
 print('asdf의 길이: ', len('asdf'))
@@ -62,7 +62,7 @@ aaa, bbb, ccc,
 - 다차원 리스트는 복잡한 구조의 데이터를 표현하기 위해 사용한다.
 
 \
-~~~
+~~~python
 <예시>
 
 a = [[1,2,3], [4,5,6]]
