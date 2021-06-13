@@ -19,8 +19,7 @@ comments: true
 ~~~python
 s = {1,2,3}
 print(s)
-print(type(s))  
---> <class 'set'>
+print(type(s))  --> <class 'set'>
 
 s = {}  #주의!칸이 비어있으면 딕셔너리가 된다.
 print(type(s))  
