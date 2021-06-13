@@ -19,10 +19,12 @@ comments: true
 ~~~python
 s = {1,2,3}
 print(s)
-print(type(s))  --> <class 'set'>
+print(type(s))  
+--> <class 'set'>
 
-s = {}  #*주의!칸이 비어있으면 딕셔너리가 된다.
-print(type(s))  --> 결과: <class 'dict'> 타입이 디셔너리인 것을 확인할 수 있다.
+s = {}  #주의!칸이 비어있으면 딕셔너리가 된다.
+print(type(s))  
+--> <class 'dict'> 인것을 확인할 수 있다.
 
 s = {1,2,3} #중복되는 값을 넣어보자.
 for i in s:
