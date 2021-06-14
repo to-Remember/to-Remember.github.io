@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title:  "파이썬(7)_함수 사용방법"  
+title:  "파이썬(7)_함수_사용방법"  
 subtitle:   "함수정의, 함수호출 "  
 categories: Blog  
 tags: Blog python     
