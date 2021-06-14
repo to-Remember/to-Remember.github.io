@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title:  "파이썬(9)_함수 예제_피카추게임_주소록_만들기"  
+title:  "파이썬(9)_함수_예제_피카추게임_주소록_만들기"  
 subtitle:   "피카츄 게임 만들기, 주소록 만들기"  
 categories: Blog  
 tags: Blog python     
