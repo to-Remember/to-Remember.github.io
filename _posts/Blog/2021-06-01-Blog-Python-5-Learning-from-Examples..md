@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title:  "파이썬(5)_리스트_예제"  
+title:  "파이썬(5)_리스트_예제_최대값_최소값_성적처리프로그램"  
 subtitle:   "최대값, 최소값, 성적처리 프로그램"  
 categories: Blog  
 tags: Blog python     
