@@ -94,24 +94,20 @@ while True:
 6. 종료     
 
 ~~~python
-#이름, 전화, 주소     
-#members=[[이름, 전화, 주소],[이름, 전화, 주소],[이름, 전화, 주소]]     
-
 members = []
 titles = ['name:', 'tel:', 'address:']
 
-#등록함수
-def addMember():
+def addMember():  #등록함수
     m = [0,0,0]
     print('새 멤버 등록')
     for i in range(0, len(m)):
-        if i==0:#이름 입력일때
+        if i==0:  #이름 입력일때
             while True:
                 m[i] = input(titles[i])
                 res = getByName(m[i])
                 if res==None:
                     break
-        else:#전화, 주소 입력
+        else:  #전화, 주소 입력
             m[i] = input(titles[i])
 
     members.append(m)
@@ -137,7 +133,7 @@ def printMember():
 
 def printAll():
     print('모든 멤버')
-    for i in members:#i는 한명 리스트 ['aaa', '111','asdf']
+    for i in members:  #i는 한명 리스트 ['aaa', '111','asdf']
         cnt=0
         for j in i:
             print(titles[cnt], j)
