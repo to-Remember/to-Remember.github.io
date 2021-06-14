@@ -1,7 +1,7 @@
 ---  
 layout: post  
-title:  "파이썬(8)_함수_예제"  
-subtitle:   "구구단, 약수/최소값/최대값 구하기 "  
+title:  "파이썬(8)_함수_예제_총합_약수_최소값_최대값_구구단_계산기"  
+subtitle:   "총합, 약수/최소값/최대값, 구구단, 계산기"  
 categories: Blog  
 tags: Blog python     
 comments: true  
