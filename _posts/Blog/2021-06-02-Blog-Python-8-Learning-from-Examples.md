@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title:  "파이썬(8)_함수 예제"  
+title:  "파이썬(8)_함수_예제"  
 subtitle:   "구구단, 약수/최소값/최대값 구하기 "  
 categories: Blog  
 tags: Blog python     
