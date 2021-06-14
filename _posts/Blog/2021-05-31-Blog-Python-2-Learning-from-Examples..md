@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "파이썬(2)_예제"
+title:  "파이썬(2)_조건문_예제"
 subtitle:   "합격/불합격, 짝수/홀수, 성인/성별 확인, 학점출력"
 categories: Blog
 tags: Blog python   
