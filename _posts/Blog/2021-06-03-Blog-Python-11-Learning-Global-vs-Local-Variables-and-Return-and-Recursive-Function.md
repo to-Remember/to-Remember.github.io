@@ -6,9 +6,9 @@ categories: Blog
 tags: Blog python     
 comments: true  
 ---  
-**바로가기** 
-[함수종료 return](####함수종료-return)
-[재귀함수](####재귀함수)
+**바로가기**       
+[함수종료 return](####함수종료-return)      
+[재귀함수](####재귀함수)      
 
 #### 전역변수 및 지역변수
 
