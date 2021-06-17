@@ -1,10 +1,10 @@
 ---  
 layout: post  
 title:  "파이썬(14)_예외발생_예외처리"  
-subtitle:   "입력, 출력, 에러 스트림"  
+subtitle:   "try, except, else, finally"  
 categories: Blog  
 tags: Blog python     
-comments: true  
+comments: true
 ---  
 
 
