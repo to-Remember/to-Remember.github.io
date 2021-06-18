@@ -7,6 +7,8 @@ tags: Blog python
 comments: true
 ---  
 
+바로가기:     
+[사용자정의 예외](#사용자정의-예외)
 
 
 # 예외발생  
