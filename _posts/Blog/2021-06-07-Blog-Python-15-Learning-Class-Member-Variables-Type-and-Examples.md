@@ -1,4 +1,4 @@
-v---  
+---  
 layout: post  
 title:  "파이썬(15)_클래스_예제_주소록_다양한형태의멤버변수_포함관계"  
 subtitle:   "class, address book, class, member variables type"  
