@@ -6,5 +6,5 @@ menu: true
 submenu: false
 order: 1
 description: >
-  Python에 관한 글   
+  Learning Python_파이썬 다루기   
 ---
