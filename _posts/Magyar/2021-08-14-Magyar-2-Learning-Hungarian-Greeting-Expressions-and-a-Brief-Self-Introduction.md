@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "헝가리어(1)_상황별_인사법_및_간단한_자기소개_방법"
+title:  "헝가리어(2)_상황별_인사법_및_간단한_자기소개_방법"
 subtitle:   "인사법, 자기소개"
 categories: Magyar
 tags: Blog Magyar   
