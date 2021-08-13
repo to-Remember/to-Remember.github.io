@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "헝가리어(1)_주의할 발음, 익히면 좋을 어휘 및 문장"
+title:  "헝가리어(1)_주의할_발음_유익한_어휘_및_문장"
 subtitle:   "발음, 유익한 어휘 및 문장"
 categories: Python
 tags: Blog Python   
