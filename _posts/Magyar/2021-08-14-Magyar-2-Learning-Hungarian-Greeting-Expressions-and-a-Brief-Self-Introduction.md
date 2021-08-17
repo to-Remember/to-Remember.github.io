@@ -80,6 +80,10 @@ Most magyarul és angolul tanulok.
 Diák vagyok.        
 ~~~
 
+▼
+▼
+▼
+
 ~~~sh
 좋은 아침입니다.
 Rosa 입니다.    
