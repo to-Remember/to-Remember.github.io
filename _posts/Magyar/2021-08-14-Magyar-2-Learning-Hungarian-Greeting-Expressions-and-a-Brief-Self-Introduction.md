@@ -52,7 +52,7 @@ Szervústok!
 |5|ban/ben|~에|        
 |6|élek|살다 (1인칭)|        
 |7|huszon|20|      
-|8|őt|5|    
+|8|öt|5|    
 |9|éves|~살(나이)|    
 |10|beszélek|말하다 (1인칭)|  
 |11|Angolul|영어, 영어로|       
@@ -74,7 +74,7 @@ Jó reggelt kívanok!
 Rosa vagyok.        
 Dél-Koreai vagyok.       
 Szöulban élek.       
-Huszonőt éves vagyok.   
+Huszonöt éves vagyok.   
 Angolul, Kínaiul, és magyarúl beszélek.        
 Most magyarul és angolul tanulok.        
 Diák vagyok.        
