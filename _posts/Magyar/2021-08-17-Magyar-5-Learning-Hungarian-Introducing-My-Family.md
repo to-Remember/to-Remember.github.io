@@ -67,7 +67,7 @@ Tényleg csinos és okos. Mindig türelmes és vidám.
 Jó barátom vagy.      
 ~~~
 
-
+↓ ↓ ↓        
 
 
 ~~~sh
