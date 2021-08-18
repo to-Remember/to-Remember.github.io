@@ -51,7 +51,7 @@ comments: true
 
 #가족 소개
 
-~~~sh
+
 Az egész családom négy - az édesapám, az édesanyám, az nővérem.       
 
 Az apám a főnök. Nagyon jóképű.      
@@ -65,7 +65,7 @@ Szerintem az anyám kedves és jókedvű.
 Az nővérem köstisztviselő.       
 Tényleg csinos és okos. Mindig türelmes és vidám.       
 Jó barátom vagy.      
-~~~
+
 
 ↓ ↓ ↓        
 
