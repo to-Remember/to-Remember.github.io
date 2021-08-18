@@ -32,22 +32,22 @@ comments: true
 |10|mobilszám|핸드폰번호|  
 |11|kukac|@ (골뱅이)|       
 |12|pont|. (점)|     
-|13|Mikor|언제|          
+|13|mikor|언제|          
 |14|pihen|쉬다|         
 |15|valamikor|언제, 언젠가|       
-|16|Hat|음~|     
+|16|hat|음~|     
 |17|hétfő, hétfőn|월요일, 월요일에|        
 |18|szerdá, szerdán|수요일, 수요일에|        
 |19|péntek, pénteken|금요일, 금요일에|        
-|20|Mettől meddig|언제부터 언제까지, 어디서부터 어디까지|        
+|20|mettől meddig|언제부터 언제까지, 어디서부터 어디까지|        
 |21|órá|-시, 시간, 수업|        
 |22|hétköznap|주중, 평일|        
-|23|Reggel|아침|        
+|23|reggel|아침|        
 |24|délután|오후|        
 |25|ebédszünet|점심 시간|        
 |26|Fél|반, 30분|        
 |27|tanul, tanulni|배우다, 배우는 것|        
-|28|Kb.|약, 대략 (körülbelül 줄인 것.'까비'라고 발음)|        
+|28|kb.|약, 대략 (körülbelül 줄인 것.'까비'라고 발음)|        
 |29|este|저녁|        
 |30|hétvége|주말|        
 
@@ -85,12 +85,12 @@ Az e-mail címem rosa tizenharom-negyvenkét-tízenkkettő kukac gmail pont com.
 
 
 ~~~sh
-Mikor pihensz? 너는 언제 쉬어?     
-Általában este hét órától nyolc óráig. 보통 저녁 7시부터 9시까지.
+Mikor pihensz? 너는 언제 쉬어?          
+Általában este hét órától nyolc óráig. 보통 저녁 7시부터 9시까지.     
 ~~~
 
 ~~~sh
-Sportolsz valamikor? 너는 언제 운동해?
+Sportolsz valamikor? 너는 언제 운동해?      
 Hat, talán hétfőn, szerdán, és pénteken sportolók. 음, 아마 월요일, 수요일 그리고 금요일에 운동해     
 ~~~
 
@@ -115,7 +115,7 @@ Talán reggel nyolctól tízig. És Kb. nyolc órától tizen óráig este van. 
 
 ~~~sh
 Mettől meddig a hétköznap? 언제부터 언제까지가 주중이야?    
-A hétköznap hétfőtől péntekig. 주중은 월요일부터 금요일까지야   
+A hétköznap hétfőtől péntekig. 주중은 월요일부터 금요일까지야        
 ~~~
 
 
