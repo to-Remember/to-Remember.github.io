@@ -8,7 +8,7 @@ comments: true
 ---
 
 **바로가기**          
->[가족 소개](#가족_소개)     
+>[가족소개](#가족소개)     
 
 
 # 어휘
@@ -49,7 +49,7 @@ comments: true
 
 
 
-#가족 소개
+#가족소개
 
 
 Az egész családom négy - az édesapám, az édesanyám, az nővérem.       
