@@ -65,7 +65,8 @@ A lakcímem 00 utca 111.**
 우리집 주소는 00로 111 입니다.    
 ~~~
 
-**Mi az irányítószámod?
+
+**Mi az irányítószámod?               
 Az irányítószámom talán 00111 (nulla nulla egy tizenegy)**           
 
 ~~~sh
@@ -83,7 +84,7 @@ Sajnos, nincs otthon telefonom.**
 ~~~
 
 
-**Mi a mobilszámod? 
+**Mi a mobilszámod?         
 A mobilszámom: nulla egy nulla - harminchárom negyvennégy - ötvenöt hatvanhat.**            
 
 ~~~sh
@@ -92,7 +93,7 @@ A mobilszámom: nulla egy nulla - harminchárom negyvennégy - ötvenöt hatvanh
 ~~~
 
 
-**Mi a e-mail címem?      
+**Mi a e-mail címem?              
 Az e-mail címem rosa tizenharom-negyvenkét-tízenkkettő kukac gmail pont com.**    
 
 ~~~sh
