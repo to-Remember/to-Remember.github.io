@@ -87,18 +87,18 @@ comments: true
 
 # 주말계획 소개
 
-**Q.**       
-Mi a hétvégi programod?        
+**Q.     
+Mi a hétvégi programod?**        
        
-**A.**     
+**A.     
 A hétvégi programom? Nagyon elfoglalt a hétvégen.               
-Pénteken este tanulok magyarul. Ez nagyon fontos, mert még nem tudok olyan jól.       
+Pénteken este tanulok magyarul. Ez nagyon fontos, mert még nem tudok olyan jól.**       
 
-Szobámban talán reggel nyolctól baráttal a hegyekbe megyünk.        
-Délben ott ebédelúnk. Este pedig anyámmal és nővéremmel enni és inni nálam.       
+**Szobámban talán reggel nyolctól baráttal a hegyekbe megyünk.        
+Délben ott ebédelúnk. Este pedig anyámmal és nővéremmel enni és inni nálam.**       
 
-Általaban Vasárnap otthon maradok. Nem csinálok semmit, egész nap csak pihenek.       
-De, a héten vasárnap metróval és busszal megyek kollégiumba.        
+**Általaban Vasárnap otthon maradok. Nem csinálok semmit, egész nap csak pihenek.       
+De, a héten vasárnap metróval és busszal megyek kollégiumba.**        
 
 
 
