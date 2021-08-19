@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "헝가리어(6)_시간_관련_어휘_정리_및_주말계획_소개"
+title:  "헝가리어(7)_시간_관련_어휘_정리_및_주말계획_소개"
 subtitle:   "시간어휘 정리 및 주말계획 소개하기"
 categories: Magyar
 tags: Blog Magyar   
