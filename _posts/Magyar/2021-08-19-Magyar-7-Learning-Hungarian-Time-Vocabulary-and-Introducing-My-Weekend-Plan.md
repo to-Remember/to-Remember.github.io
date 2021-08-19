@@ -87,10 +87,10 @@ comments: true
 
 # 주말계획 소개
 
-Q.       
+**Q.**       
 Mi a hétvégi programod?        
        
-A.
+**A.**     
 A hétvégi programom? Nagyon elfoglalt a hétvégen.               
 Pénteken este tanulok magyarul. Ez nagyon fontos, mert még nem tudok olyan jól.       
 
