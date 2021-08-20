@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "헝가리어(8)_숫자_정리"
+title:  "헝가리어(7)_숫자_정리"
 subtitle:   "헝가리어 숫자 정리"
 categories: Magyar
 tags: Blog Magyar   
