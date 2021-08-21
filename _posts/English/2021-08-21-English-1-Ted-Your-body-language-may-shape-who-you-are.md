@@ -14,7 +14,7 @@ comments: true
 ***Body language affects how others see us, but it may also change how we see ourselves. Social psychologist Amy Cuddy argues that "power posing" -- standing in a posture of confidence, even when we don't feel confident -- can boost feelings of confidence, and might have an impact on our chances for success.***          
 
 
-I brought some sentences below.       
+I brought some words or sentences below.       
 
 
 >A free no-tech **life hack**        
