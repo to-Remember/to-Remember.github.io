@@ -12,7 +12,7 @@ comments: true
 **Press agency:** 코리아포스트            
 
 
-**Link:** https://www.koreapost.com/news/articleView.html?idxno=24187           
+**Link:** [SK이노베이션, 헝가리 이반차市 공익재단을 통해 지역사회 기부| Joseph Sung ](https://www.koreapost.com/news/articleView.html?idxno=24187)              
 
 
 **Summary:**            
