@@ -12,10 +12,10 @@ comments: true
 >[문장만들기](#문장만들기)   
 
 
-# Melyik közlekedési eszközt használ?
+# Melyik közlekedési eszközt használ?        
 
-교통수단 + val/vel = ~을 타고 다니다.
-먼저 어휘 체크
+교통수단 + val/vel = ~을 타고 다니다.         
+먼저 어휘 체크       
 
 
 |  | **단어** | **의미** |         
@@ -32,7 +32,7 @@ comments: true
     
 
 
-# 연습
+# 연습  
 
 1. **busszal**       
 버스로, 버스를 타고       
@@ -58,32 +58,32 @@ comments: true
 
 
 
-# 문장만들기
+# 문장만들기    
 
 
-~~~sh
-Mindig gyalóg járok az egyetemre.      
+**Mindig gyalóg járok az egyetemre.**     
+~~~sh    
 나는 항상 걸어서 대학을 다닌다.      
 ~~~
 
-
-~~~sh
-Sára Busszal jár a könyvtárba, de ma metróval megy.      
+**Sára Busszal jár a könyvtárba, de ma metróval megy.**        
+~~~sh      
 Sára는 버스를 타고 도서관에 다니는데, 오늘은 지하철로 갔다.      
 ~~~
 
-~~~sh
-Biciklivel mész a parkba?      
+**Biciklivel mész a parkba?**         
+~~~sh      
 너 자전거 타고 공원으로 가?      
 ~~~
 
+**Motorral megyünk a piácra.**           
 ~~~sh
-Motorral megyünk a piácra.      
 우리 오토바이 타고 시장으로 갈거야.      
 ~~~
 
+
+**Jönnek taxival?**     
 ~~~sh
-Jönnek taxival?      
 그들은 택시로 와?      
 ~~~
 
