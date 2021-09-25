@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "헝가리어(10)_위치에따라_달라지는_처소격조사_위"
+title:  "헝가리어(11)_위치에따라_달라지는_처소격조사_위"
 subtitle:   "헝가리어, 처소격조사, 위"
 categories: Magyar
 tags: Blog Magyar   
