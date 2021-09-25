@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "헝가리어(10)_위치에따라_달라지는_접근성_처소격조사"
-subtitle:   "헝가리어, 처소격조사, 접근"
+title:  "헝가리어(10)_위치에따라_달라지는_처소격조사_내부"
+subtitle:   "헝가리어, 처소격조사, 내부"
 categories: Magyar
 tags: Blog Magyar   
 comments: true
