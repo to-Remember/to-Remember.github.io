@@ -42,4 +42,12 @@ That’s a **whopping** significant difference.
 Power posing for a few minutes really change my life in meaningful ways.       
 This is worse than being **heckled**.       
 **“Standing in social quicksand”.**        
-This is what’s driving the effect or **mediating** the effect.        
+This is what’s driving the effect or **mediating** the effect.     
+.         
+.         
+.         
+.         
+.         
+.       
+.                     
+_로싸의 기억 저장소 - 투리멤버 :)_
