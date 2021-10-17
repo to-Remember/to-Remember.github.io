@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "헝가리어(16)_büfé_롤플레이_주문_계산하기_유용한_문장들_익히기"
-subtitle:   "헝가리어, büfé, 주문, 계산, 유용한 표현들"
+title:  "헝가리어(16)_büfében_롤플레이_주문_계산하기_유용한_문장들_익히기"
+subtitle:   "헝가리어, büfében, 주문, 계산, 유용한 표현들"
 categories: Magyar
 tags: Blog Magyar   
 comments: true
