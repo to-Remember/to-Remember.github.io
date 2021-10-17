@@ -18,7 +18,7 @@ comments: true
 
 |  | **단어** | **의미** |         
 | ------ | ------ | ------ |     
-|1|Nálam|우리 집에, 나한테|       
+|1|Nálam|우리 집에는|       
 |2|kutya|강아지|          
 |3|akar|원하다, 희망하다|          
 |4|hallgat|듣다, 경청하다|        
@@ -33,32 +33,37 @@ comments: true
 |13|legalább|적어도|          
 |14|-szer|~번(한번, 두번)|         
 |15|alszik|잠자다|       
-|16|legjobb|가장 좋은 것, 최고의|     
+|16|természetesen|물론|       
+|17|kollégium|기숙사|       
+|18|Tehát|그러므로|       
+|19|lehetetlen|불가능한, 불가능한 것|       
+|20|biztosan|반드시, 사실, 어김없이|       
+|21|igaz|진리, 진짜의, 실제의|       
+|22|legjobb|가장 좋은 것, 최고의|     
      
     
 
 # 반려견 소개       
 
- 
 **Nálam van a kutya, 수돌.**         
 **Akarsz hallgatni a kutyámról?**         
 **수돌 régi barátom.**         
 **수돌 nem szeret unatkozni, mindig csinál valamit.**          
 **mindketten szeretünk időt tölteni együtt, tehát minden nap legalább kétszer sétálunk.**        
-**Mindig együtt alszunk is.**         
-**Legjobb barátok vagyunk.**      
+**Mindig együtt alszunk is.Természetesen most kollégiumban élek. Tehát lehetetlen.**         
+**De, ez biztosan igaz, hogy legjobb barátok vagyunk.**      
 
 ↓ ↓ ↓        
 
 
 ~~~sh
-우리 집 강이지 수돌이가 있습니다.        
+우리 집엔 강이지 수돌이가 있습니다.        
 저희 강아지에 대해 듣고 싶으신가요?     
 수돌이는 제 오랜 친구입니다.      
 수돌이는 지루한 걸 싫어합니다. 언제나 무언가를 하고 있습니다.      
 우리 둘 다 함께 시간을 보내는 것을 좋아합니다. 그래서 매일 적어도 두번씩 산책을 합니다.    
-우리는 잠도 함께 잡니다.          
-우리는 둘도 없는 친구입니다.           
+우리는 잠도 함께 잡니다. 물론 지금은 제가 기숙사에서 살고 있기에 불가능합니다.          
+그러나 확실한 것은 우리는 둘도 없는 친구라는 것입니다.           
 ~~~
 
 
