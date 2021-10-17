@@ -23,7 +23,7 @@ comments: true
 |5|legyen szíves|~바랍니다. 부탁드립니다.|        
 |6|más|다른 것, 또 다른 것|        
 |7|kér|부탁하다|      
-|8|darab|조각|    
+|8|darab|조각|              
 |9|sárgarépa|당근|    
 |10|elvitel|가져가 버림, 데리고 감|        
 |11|összesen|총, 모두|       
@@ -34,13 +34,13 @@ comments: true
 # 롤플레이 문장          
 
 **Eladó: Szervusz! Mit adhatok?**          
-**Vevő: Szervusz. Egy dupla sajtos hamburger, és egy cukormentes americano, legyen szíves!**
-**Eladó: Tessék! Másvalamit?**
-**Vevő: Akkor kérek egy darab répatortát. Elvitelre kérem.**
-**Eladó: Összesen 5000 forint lesz.**
-**Vevő: Tessék. Nem kérek vissza.**
-**Eladó: Köszönöm**
-**Vevő: Én is köszönöm, viszontlátásra.**     
+**Vevő: Szervusz. Egy dupla sajtos hamburger, és egy cukormentes americano, legyen szíves!**          
+**Eladó: Tessék! Másvalamit?**          
+**Vevő: Akkor kérek egy darab répatortát. Elvitelre kérem.**          
+**Eladó: Összesen 5000 forint lesz.**          
+**Vevő: Tessék. Nem kérek vissza.**          
+**Eladó: Köszönöm**          
+**Vevő: Én is köszönöm, viszontlátásra.**               
       
  
 # 문장 분석          
