@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "헝가리어(16)_büfében_롤플레이_주문_계산하기_유용한_문장들_익히기"
-subtitle:   "헝가리어, büfében, 주문, 계산, 유용한 표현들"
+title:  "헝가리어(16)_büfében_뷔페_롤플레이_주문_계산하기_유용한_문장들_익히기"
+subtitle:   "헝가리어, büfében, 뷔페, 주문, 계산, 유용한 표현들"
 categories: Magyar
 tags: Blog Magyar   
 comments: true
@@ -11,6 +11,7 @@ comments: true
 >[롤플레이 문장](#롤플레이_문장)      
 >[문장 분석](#문장_분석)       
 
+*먼저 헝가리에서 뷔페는 맥도날드, 버거킹 같은 곳을 칭한다. & 선불        
 
 # 어휘          
 
