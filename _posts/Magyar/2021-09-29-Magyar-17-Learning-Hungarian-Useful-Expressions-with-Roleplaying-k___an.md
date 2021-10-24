@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "헝가리어(17)_kávézóban_롤플레이_주문_계산하기_유용한_문장들_익히기"
-subtitle:   "헝가리어, kávézóban, 주문, 계산, 유용한 표현들"
+title:  "헝가리어(17)_kávézóban_롤플레이_카페_주문_계산하기_유용한_문장들_익히기"
+subtitle:   "헝가리어, kávézóban, 카페, 주문, 계산, 유용한 표현들"
 categories: Magyar
 tags: Blog Magyar   
 comments: true
