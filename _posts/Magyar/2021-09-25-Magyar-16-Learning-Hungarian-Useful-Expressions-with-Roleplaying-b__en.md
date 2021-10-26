@@ -59,8 +59,8 @@ comments: true
 (직역 : 다른 무언가는요?)           
 
 4. **kérek egy darab répatortát.**        
-당근케잌 한 조각 주세요.         
-(당근 : sárgarépa 당근케잌은 보통 앞의 sárga 없이 répatorta로 쓰인다.)            
+당근케이크 한 조각 주세요.         
+(당근 : sárgarépa 당근케이크는 보통 앞의 sárga 없이 répatorta로 쓰인다.)            
 
 5. **Elvitelre kérem.**            
 테이크아웃 하겠습니다.             
