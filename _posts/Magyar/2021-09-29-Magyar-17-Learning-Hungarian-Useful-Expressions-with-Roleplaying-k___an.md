@@ -55,7 +55,7 @@ comments: true
 (직역 : 아직 무언가를? - 계속해서 주문할게 남아있는지 묻는 것)        
 
 3. **Egy darab sajttortát is kérek**         
-치즈케잌 한 조각 또한 주세요.          
+치즈케이크 한 조각 또한 주세요.          
 (is : ~도)           
 
 4. **Rendben.**        
@@ -68,11 +68,11 @@ comments: true
 (한 예로, 10000 지불 시 4000 뺀 금액만 돌려달라는 것)         
 
 6. **Hű, ez a kávé nagyon finom. És imádom a sajttortát.**         
-이야 이 커피 엄청 맛있고, 치즈케잌 너무 좋다.          
+이야 이 커피 엄청 맛있고, 치즈케이크 너무 좋다.          
 (imádom : 정말 미칠듯이 좋아하는 정도)         
 
 7. **Szeretnék venni egy másik tortát. Hát akkor kérek egy darab répatortát. Elvitelre kérem.**        
-또 다른 케잌 하나도 구매하고 싶습니다. 음 그럼 당근케잌 하나 주세요. 테이크아웃 해갈게요.          
+또 다른 케이크 하나도 구매하고 싶습니다. 음 그럼 당근케이크 하나 주세요. 테이크아웃 해갈게요.          
 .         
 .         
 .         
